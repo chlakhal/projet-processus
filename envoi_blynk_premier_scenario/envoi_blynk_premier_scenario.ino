@@ -6,8 +6,8 @@
 #include<ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h>
 #include<MQ135.h>
-char ssid[]= "inwi Home 4G740F3B"//NOM DU RéSEAU WIFI
-char pass[]="47512017"// MOT DE PASSE WIFI
+char ssid[]= "inwi Home 4G8910D3E"//NOM DU RéSEAU WIFI
+char pass[]="47152071"// MOT DE PASSE WIFI
  char auth[]=BLYNK_AUTH_TOKEN;
  BlynkTimer timer;
  const int MQ135_PIN1=A0;
