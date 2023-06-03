@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID "TMPL2cSkbbj1H"
-#define BLYNK_TEMPLATE_NAME "PPM"
-#define BLYNK_AUTH_TOKEN "PcG5J2oc5AGKVdbP5g59uwpyEWYD257v"
+#define BLYNK_TEMPLATE_ID "TMPL2cSkbbj1H"//identifiant du modèle de projet Blynk dans le cloud Blynk
+#define BLYNK_TEMPLATE_NAME "PPM"// le nom du modèle de projet Blynk
+#define BLYNK_AUTH_TOKEN "PcG5J2oc5AGKVdbP5g59uwpyEWYD257v" //jeton d'authentification pour accéder au projet dans le cloud Blynk
 
 #define  BLYNK_PRINT Serial
 #include<ESP8266WiFi.h>
