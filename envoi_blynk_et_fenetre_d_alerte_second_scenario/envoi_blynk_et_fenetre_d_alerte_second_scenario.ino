@@ -1,8 +1,8 @@
-#define BLYNK TEMPLATE ID "TMPL21HUZeLUE"
+#define BLYNK TEMPLATE ID "TMPL21HUZeLUE" //L'identifiant du modèle de projet dans le cloud Blynk
 
-#define BLYNK_TEMPLATE_NAME "C02"
+#define BLYNK_TEMPLATE_NAME "C02"// nom du modèle de projet Blynk
 
-#define BLYNK_AUTH_TOKEN "1hIW7Qq2uj80QU38qX1R7nWowHep"
+#define BLYNK_AUTH_TOKEN "1hIW7Qq2uj80QU38qX1R7nWowHep"//jeton d'authentification pour accéder au projet Blynk dans le cloud Blynk
 
 #define BLYNK PRINT Serial
 
