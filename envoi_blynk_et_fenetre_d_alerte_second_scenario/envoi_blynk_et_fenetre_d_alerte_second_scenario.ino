@@ -12,8 +12,8 @@
 
 #include <MQ135.h>
 
-char ssid[] "inwi Home 40740F3B"; // Remplacer avec votre nom de réseau WiFi
-char pass[] = "47512017"; // Remplacer avec votre mot de passe WiFi
+char ssid[] "inwi Home 48910D3E"; // Remplacer avec votre nom de réseau WiFi
+char pass[] = "47152071"; // Remplacer avec votre mot de passe WiFi
 char auth[] = BLYNK_AUTH_TOKEN;
 BlynkTimer timer;
 const int MQ135_PIN = A0;
